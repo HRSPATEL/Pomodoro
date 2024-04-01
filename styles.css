@@ -54,3 +54,9 @@ body {
     outline: none;
     border-color: #007bff;
 }
+
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #f2f2f2;
+}
